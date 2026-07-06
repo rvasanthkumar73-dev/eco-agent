@@ -140,6 +140,3 @@ graph TD
 ⚠️ NEVER push .env to GitHub. Your API key will be exposed publicly.
 
 ---
-
-## Demo Script
-Refer to [`DEMO_SCRIPT.txt`](file:///c:/Users/Vasanth%20kumar/OneDrive/Desktop/adk-workspace/eco-agent/DEMO_SCRIPT.txt) for a complete spoken walkthrough script.
