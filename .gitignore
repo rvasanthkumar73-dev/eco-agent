@@ -213,6 +213,6 @@ tools/a2a-inspector/
 .terraform/
 terraform.tfstate
 terraform.tfstate.backup
-*.tfvars
 artifacts/
+DEMO_SCRIPT.txt
 
